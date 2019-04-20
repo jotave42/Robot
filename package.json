@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jotave42/Robot/issues"
   },
-  "homepage": "https://github.com/jotave42/Robot#readme"
+  "homepage": "https://github.com/jotave42/Robot#readme",
+  "dependencies": {
+    "algorithmia": "^0.3.10"
+  }
 }
