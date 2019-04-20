@@ -1,0 +1,13 @@
+content: {
+    searchTrm: "...",
+    prefix: "...",
+    sourceContentOriginal: "...",
+    sourceContentSanitized: "...",
+    sentences:[
+        {
+            text:"...",
+            keywords:["..."],
+            images:["..."],
+        }
+    ]
+}
